@@ -1,0 +1,6 @@
+{
+  "name": "Bishoj Basnet Portfolio",
+  "description": "A premium, modern, and visually striking graphic design portfolio website for Bishoj Basnet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
